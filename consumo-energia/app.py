@@ -1,4 +1,4 @@
-# Calculadora de Consumo Elétrico Inteligente ⚡
+# Calculadora de Consumo Elétrico Inteligente 
 
 print("=== Calculadora de Consumo Elétrico ===")
 
